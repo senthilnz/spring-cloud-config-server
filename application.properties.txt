@@ -1,0 +1,3 @@
+rates=1.2
+lanecount=6
+starttime=05:00
