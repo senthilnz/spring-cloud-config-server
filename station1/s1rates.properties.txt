@@ -1,2 +1,0 @@
-rates=1.91
-lanecount=5
